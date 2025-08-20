@@ -3,6 +3,7 @@ import json
 def lambda_handler(event, context):
     # TODO implement
     a="aman"
+    b="shreya"
     return {
         'name':a,
         'statusCode': 200,
